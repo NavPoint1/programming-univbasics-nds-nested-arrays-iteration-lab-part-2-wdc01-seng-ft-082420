@@ -11,5 +11,6 @@ def find_min_in_nested_arrays(src)
         array[i] = src[i][j]
       end
     }
+    array
   }
 end
